@@ -7,10 +7,6 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👯 I’m looking to collaborate on **good ideas**
-
-- 💬 Ask me about **java, blockchain**
-
 - 📫 How to reach me **anantashayana.hegde@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
